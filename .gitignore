@@ -1,0 +1,5 @@
+# Local session cookie (contains DUPR credentials) — never commit.
+cookie.txt
+
+# Runtime lookup cache written by the server.
+cache.json
